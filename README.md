@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Supavida Itthirak
 =========================================================================================================================================
 
-I am Looking for Full-Stack Developer Positions
+I am Looking for Automated Tester Positions
 -----------------------------------------------
 
 I've been learning to code for 4 month after switching careers. I started with HTML, CSS and JavaScript by joining Junior Software Developer Generation Thailand Bootcamp Cohort 6.
 
 * 🌍  I'm based in Thailand, but open every opertunity will come.
-* ✉️  You can contact me at [f.supavida@gmail.com](mailto:f.supavida@gmail.com)
+* ✉️  You can contact me at [supavida.itthirak@gmail.com](mailto:f.supavida@gmail.com)
 
 ### Skills
 
