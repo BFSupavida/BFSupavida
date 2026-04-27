@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am Looking for Automated Tester Positions
 -----------------------------------------------
 
-I started learning to code with HTML, CSS, and JavaScript. Currently, I’m working as a Software Tester, where I apply my coding skills to introduce automation into our testing processes.
+I started learning to code with HTML, CSS, and JavaScript. Currently, I’m working as a QA Automated Test, where I apply my coding skills to introduce automation into our testing processes.
 
 
 * 🌍  I'm based in Thailand, but open every opertunity will come.
